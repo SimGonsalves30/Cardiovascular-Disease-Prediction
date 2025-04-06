@@ -1,4 +1,4 @@
-      Medical services today have come a long way in the treatment of patients with various
+Medical services today have come a long way in the treatment of patients with various
 diseases. Among which the diseases of the heart are lethal as it cannot be seen with our
 naked eye, which becomes a challenge for medical professionals as it is relatively difficult to
 diagnose a patient correctly and administer the medical care necessary. The cost to treat
@@ -10,7 +10,7 @@ systems typically generate huge amounts of data which take the form of numbers, 
 charts, and images. Unfortunately, these data are rarely used to support clinical decision
 making. 
 
-     There is a wealth of hidden information in these data that is largely untapped. This
+There is a wealth of hidden information in these data that is largely untapped. This
 raises an important question: “How can we turn data into useful information that can
 enable healthcare practitioners to make intelligent clinical decisions?” So there is a need
 for developing a project which will help practitioners predict heart disease before it occurs.
